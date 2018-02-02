@@ -23,11 +23,11 @@ Dijos | A Offline Judge For OI
   
 * Dijos_Classes.h
 
- 放了几个关键类:
+  放了几个关键类:
  
- Results 评测结果类
+  Results 评测结果类
  
- TestIO 关于评测输入输出处理的类
+  TestIO 关于评测输入输出处理的类
  
- SourceCode 源代码类(编译 评测)
+  SourceCode 源代码类(编译 评测)
  
